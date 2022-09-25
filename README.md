@@ -21,7 +21,43 @@
 </br>
 </br>
 
+#  links test   
+<p>  docker container run -it docker_tomcat:latest bash</p>
+<p> http://localhost:8787/sample</p>
+<p> http://localhost:8787/manager/html</p>
+<p> http://localhost:8787/jenkins</p>
+</br>
+</br>
+
 <p>Following images of the examples:</p> 
+
+<p>Following images of the examples of the jenkins:</p> 
+ <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/logojenkins.png" style="width:800px;height:600px;" 
+alt="Minha Figura">
+</br> 
+<p>when creating the container you have to get the password that will be used in jenkins configuration</p> 
+ <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/logojenkins00.png" style="width:800px;height:600px;" 
+alt="Minha Figura">
+</br> 
+ <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/logojenkins01.png" style="width:800px;height:600px;" 
+alt="Minha Figura">
+</br> 
+ <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/logojenkins02.png" style="width:800px;height:600px;" 
+alt="Minha Figura">
+</br> 
+ <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/logojenkins03.png" style="width:800px;height:600px;" 
+alt="Minha Figura">
+</br> 
+ <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/logojenkins04.png" style="width:800px;height:600px;" 
+alt="Minha Figura">
+</br> 
+ <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/logojenkins05.png" style="width:800px;height:600px;" 
+alt="Minha Figura">
+</br> 
+
+
+
+<p>Following images of the examples of the tomcat:</p> 
  <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/docker001.PNG" style="width:800px;height:600px;" 
 alt="Minha Figura">
 </br> 

@@ -38,5 +38,9 @@ RUN /usr/local/tomcat/bin/shutdown.sh
 RUN /usr/local/tomcat/bin/startup.sh 
 
 ADD sample.war /usr/local/tomcat/webapps/
+ADD jenkins.war /usr/local/tomcat/webapps/
+
+RUN apt -y update
+RUN apt -y install git
 
 CMD ["catalina.sh", "run"]
