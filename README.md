@@ -39,7 +39,7 @@ https://www.jenkins.io/download/
 <p>Following images of the examples:</p> 
 
 <p>Following images of the examples of the jenkins:</p> 
- <img src="https://github.com/sovanderlei/docker_tomcat_jenkins/blob/main/image/logojenkins.png" style="width:800px;height:600px;" 
+ <img src="https://github.com/sovanderlei/docker_tomcat_jenkins/blob/main/image/logojenkins.png" style="width:180px;height:80px;" 
 alt="Minha Figura">
 </br> 
 <p>when creating the container you have to get the password that will be used in jenkins configuration</p> 
