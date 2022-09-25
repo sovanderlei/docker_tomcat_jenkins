@@ -29,51 +29,58 @@
 </br>
 </br>
 
+<p>for this example to work you have to download the war
+jenkins.war and put together with the Dockerfile to download use
+the link below:
+link: https://updates.jenkins.io/download/war/
+https://www.jenkins.io/download/
+</p> 
+
 <p>Following images of the examples:</p> 
 
 <p>Following images of the examples of the jenkins:</p> 
- <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/logojenkins.png" style="width:800px;height:600px;" 
+ <img src="https://github.com/sovanderlei/docker_tomcat_jenkins/blob/main/image/logojenkins.png" style="width:800px;height:600px;" 
 alt="Minha Figura">
 </br> 
 <p>when creating the container you have to get the password that will be used in jenkins configuration</p> 
- <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/logojenkins00.png" style="width:800px;height:600px;" 
+ <img src="https://github.com/sovanderlei/docker_tomcat_jenkins/blob/main/image/logojenkins00.png" style="width:800px;height:600px;" 
 alt="Minha Figura">
 </br> 
- <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/logojenkins01.png" style="width:800px;height:600px;" 
+ <img src="https://github.com/sovanderlei/docker_tomcat_jenkins/blob/main/image/logojenkins01.png" style="width:800px;height:600px;" 
 alt="Minha Figura">
 </br> 
- <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/logojenkins02.png" style="width:800px;height:600px;" 
+ <img src="https://github.com/sovanderlei/docker_tomcat_jenkins/blob/main/image/logojenkins02.png" style="width:800px;height:600px;" 
 alt="Minha Figura">
 </br> 
- <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/logojenkins03.png" style="width:800px;height:600px;" 
+ <img src="https://github.com/sovanderlei/docker_tomcat_jenkins/blob/main/image/logojenkins03.png" style="width:800px;height:600px;" 
 alt="Minha Figura">
 </br> 
- <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/logojenkins04.png" style="width:800px;height:600px;" 
+ <img src="https://github.com/sovanderlei/docker_tomcat_jenkins/blob/main/image/logojenkins04.png" style="width:800px;height:600px;" 
 alt="Minha Figura">
 </br> 
- <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/logojenkins05.png" style="width:800px;height:600px;" 
+ <img src="https://github.com/sovanderlei/docker_tomcat_jenkins/blob/main/image/logojenkins05.png" style="width:800px;height:600px;" 
 alt="Minha Figura">
 </br> 
 
 
 
 <p>Following images of the examples of the tomcat:</p> 
- <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/docker001.PNG" style="width:800px;height:600px;" 
+ <img src="https://github.com/sovanderlei/docker_tomcat_jenkins/blob/main/image/docker001.PNG" style="width:800px;height:600px;" 
 alt="Minha Figura">
 </br> 
- <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/docker002.PNG" style="width:800px;height:600px;" 
+ <img src="https://github.com/sovanderlei/docker_tomcat_jenkins/blob/main/image/docker002.PNG" style="width:800px;height:600px;" 
 alt="Minha Figura">
 </br> 
- <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/docker003.PNG" style="width:800px;height:600px;" 
+ <img src="https://github.com/sovanderlei/docker_tomcat_jenkins/blob/main/image/docker003.PNG" style="width:800px;height:600px;" 
 alt="Minha Figura">
 </br> 
- <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/docker004.PNG" style="width:800px;height:600px;" 
+ <img src="https://github.com/sovanderlei/docker_tomcat_jenkins/blob/main/image/docker004.PNG" style="width:800px;height:600px;" 
 alt="Minha Figura">
 </br> 
- <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/docker005.PNG" style="width:800px;height:600px;" 
+ <img src="https://github.com/sovanderlei/docker_tomcat_jenkins/blob/main/image/docker005.PNG" style="width:800px;height:600px;" 
 alt="Minha Figura">
 </br> 
- <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/docker006.PNG" style="width:800px;height:600px;" 
+ <img src="https://github.com/sovanderlei/docker_tomcat_jenkins/blob/main/image/docker006.PNG" style="width:800px;height:600px;" 
 alt="Minha Figura">
 </br> 
 </br> 
